@@ -3,7 +3,7 @@ Dynamic pricing in markdown using scipy.optimize
 
 ### Deterministic Markdown Optimization:
 
-Given Problem Statement:
+##### Given Problem Statement:
 
 A department store has 700 pairs of purple Capri stretch pants that it must sell in the next three weeks. 
 The store manager knows that demand by week for the next four weeks will be linear each week, with
@@ -17,7 +17,7 @@ Week 3: d3(p3) = (700 - 100p3)
 
 Demands in the different weeks are independent and store manager charges different prices each week.
 
-To Find:
+##### To Find:
 
 Optimum prices each week dept manager should charge and the corresponding revenue.
 
